@@ -1,0 +1,10 @@
+# Dataset berukuran besar
+*.zip
+*.tar.gz
+*.rar
+post test 4/RockPaperScissors/
+post test 4/RockPaperScissors.zip
+
+# Checkpoints & cache
+__pycache__/
+.ipynb_checkpoints/
